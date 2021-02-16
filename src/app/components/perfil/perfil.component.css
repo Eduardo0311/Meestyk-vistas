@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.container-fluid{
+    min-height: 86vh;
+    background-color: rgb(244, 237, 241);
+}
+
+.row1{
+    padding-top: 3%;
+    padding-bottom: 2%;
+    background-color: white;
+}
+
+.button{
+    background-color: white;
+    width: 180px;
+    height: 31px;
+    border: solid;
+    border-width: thin;
+    color: rgb(160, 160, 160);
+    border-radius: 20px;
+}
+
+.row2{
+    padding-top: 3%;
+    padding-bottom: 4%;
+
+}
+
+.row2-a{
+    margin-bottom: 1%;
+}
+
+.text-publicacion{
+    font-size: 20px
+}
+
+.text-live{
+    font-size: 20px;
+    color: rgb(70, 200, 192);
+}
+
+.box-text-wrap{
+    height: 120px;
+}
+
+.box-text{
+    width: 100%;
+    border-width: thin;
+    border-color: rgb(162, 158, 160);
+    border-radius: 28px;
+    background-color: rgb(244, 237, 241);
+}
+
+.row3{
+    background-color: white;
+}
+
+.text-date{
+    color: rgb(143, 149, 150);
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.row4{
+    background-color: white;
+}
+
+img{
+    border: solid;
+    border-color: rgb(162, 158, 160);
+    border-width: thin;
+    margin-bottom: 1%;
+}
+
+.row5{
+    margin-top: 3%;
+}
+
+.text-libreria{
+    color: rgb(111, 111, 111);
+    font-size: 18px;
+    margin-bottom: 0.5%;
+}
+
+.wrap-img-icons{
+    display: inline-block;
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+.img2{
+    border: solid;
+    border-color: rgb(162, 158, 160);
+    border-width: thin;
+    height: 160px;
+}
+
+.icon-wrap{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.row6{
+    background-color: white;
+}
+
+.row-img-and-name{
+    padding-top: 2%;
+}
+
+.row7{
+    background-color: white;
+}
+
+.img3{
+    border: solid;
+    border-color: rgb(162, 158, 160);
+    border-width: thin;
+}

@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container-fluid{
+    margin: auto;
+    min-height: 86vh;
+}
+
+.column1{
+    float: left;
+    margin-left: 20px;
+    padding-top: 26px;
+}
+
+.column2{
+    padding-top: 20px;
+    margin: auto;
+}
+
+.column3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title1{
+    font-size: 27px;
+}
+
+.title2{
+    font-size: 33px;
+    color:  rgb(118, 188, 33);
+    margin-bottom: 10px;
+}
+
+.text1{
+    font-size: 14px;
+    line-height: 17px;
+    width: 180px;
+}
+
+.row2{
+    margin-top: 40px;
+}
+
+.title3{
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text2-a{
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    width: 200px;
+    margin: auto;
+}
+
+.text2-b{
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    width: 220px;
+    margin: auto;
+}
+
+.line{
+    width: 3px;
+    height: 370px;
+    background-color: rgb(244, 237, 241);
+    margin: auto;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+
+.text3{
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    width: 200px;
+    height: 49px;
+    margin: auto;
+}
+
+.title-wrap {
+    padding-top: 1.5%;
+}
+
+.title4{
+    font-size: 27px;
+    text-align: center;
+}
+
+.text4{
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    width: 180px;
+    height: 49px;
+    margin: auto;
+}
+
+.row-2{
+    background-color: rgb(244, 237, 241);
+}
+
+.num-img{
+    margin: auto;
+    width: 130px;
+    height: 50px;
+}
+
+.num{
+    font-size: 50px;
+    color: rgb(118, 188, 33);
+    margin-top: 20px;
+    float: left;
+}
+.float-end{
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.text5{
+    clear: both;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.text5-b{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.line-row-4{
+    height: 50px;
+    width: 100%;
+}
+
+.row-3{
+    padding-top: 2%;
+    background-color: rgb(244, 237, 241);
+}
+
+.column4 {
+    margin-bottom: 25%;
+}
+
+.column4-wrap{
+    height: 75px;
+}

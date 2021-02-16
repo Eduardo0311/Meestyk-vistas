@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container-fluid{
+    margin: auto;
+    min-height: 86vh;
+}
+
+.row3{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.title{
+    font-size: 25px;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.perfil-container{
+    width: 95%;
+    margin-bottom: 20px;
+}
+
+.perfil-img{
+    background-image: url(/assets/img/categorias-2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(188, 188, 188);
+    border: solid;
+    border-width: thin;
+    height: 162px;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.perfil-info{
+    margin-top: 5px;
+}
+
+.perfil-texto{
+    font-size: 15px;
+    float: left;
+}
+
+.button{
+    float: right;
+    color: black;
+    background-color: white;
+    width: 100px;
+    height: 25px;
+    border-radius: 0.75rem;
+    font-size: 12px;
+    cursor: default;
+    border: solid;
+    border-width: thin;
+    border-color: rgb(188, 188, 188);
+
+}
+
+.button:hover{
+    background-color: rgb(118, 188, 33);
+}

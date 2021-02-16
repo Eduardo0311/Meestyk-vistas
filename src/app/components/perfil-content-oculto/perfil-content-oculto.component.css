@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.container-fluid{
+    background-color: rgb(244, 237, 241);
+}
+
+.row2{
+    background-color: rgb(230, 219, 225);
+}
+
+.img-hidden{
+    height: 315px;
+}
+
+.icon-wrap{
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}

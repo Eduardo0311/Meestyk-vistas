@@ -6,3 +6,18 @@
     list-style: none;
     text-decoration: none;
 }
+
+.container-fluid{
+    min-height: 86vh;
+    margin: auto;
+}
+
+.img1{
+    width: 415px;
+    height: 209px;
+}
+
+
+.break-point{
+    height: 100px;
+}

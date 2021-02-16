@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "meestyk-vistas"
+  "defaultProject": "meestyk-vistas",
+  "cli": {
+    "analytics": "459469aa-6a62-4bcd-ae81-52f4563a1790"
+  }
 }

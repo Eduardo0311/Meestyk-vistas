@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.container-fluid{
+    min-height: 86vh;
+    background-color: rgb(244, 237, 241);
+}
+
+.row1{
+    background-image: url(/assets/img/categorias-1-large.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 215px;
+}
+
+.text-banner{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.text-banner-small{
+    color: white;
+    font-size: 16px;
+}
+
+.img-center{
+    top: 65%;
+    height: 0%;
+}
+
+.circle{
+    width: 144px;
+    height: 144px;
+    border-radius: 6em;
+    background-color: white;
+    border: solid;
+    border-width: thick;
+    border-color: rgb(118, 188, 33);
+    margin: auto;
+}
+
+.img-circle{
+    background-image: url(/assets/img/categorias-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 134px;    
+}
+
+.fa-map-marker-alt{
+    font-size: 15px;
+    color: rgb(60, 60, 60);
+    font-weight: 900;
+    margin-bottom: 7px;
+    font-style: normal;
+}
+
+.name-perfil{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.name{
+    font-size: 30px;
+    color: rgb(60, 60, 60);
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.name-id{
+    color: rgb(25, 200, 212);
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.row-2{
+    margin-top: 135px;
+}
+
+
+.img-muestra{
+    border: solid;
+    border-width: thin;
+    border-color: rgb(212, 205, 204);
+    margin-bottom: 20px;
+}
